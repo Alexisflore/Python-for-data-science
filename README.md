@@ -31,7 +31,7 @@ This repository contains a series of exercises that cover a wide range of data s
 To get started with these exercises, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/data-science-mastery.git
+git clone https://github.com/Alexisflore/Python-for-data-science.git
 ```
 
 Navigate to the project directory:
@@ -113,11 +113,9 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub Issues**: [Open an issue](https://github.com/yourusername/data-science-mastery/issues)
+- **Email**: alexisflorentin14@gmail.com
+- **GitHub Issues**: [Open an issue](https://github.com/Alexisflore/Python-for-data-science/issues/)
 
 Happy Learning!
 
 ---
-
-*Note: Replace `yourusername` and `your.email@example.com` with your actual GitHub username and email address.*
